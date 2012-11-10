@@ -44,7 +44,7 @@ cd build
 
 Configure your build with command
 
-CXX=mpixcc cmake -DCMAKE_INSTALL_PREFIX=/usr/local ..
+CXX=mpicxx cmake -DCMAKE_INSTALL_PREFIX=/usr/local ..
 
 and then compile
 
