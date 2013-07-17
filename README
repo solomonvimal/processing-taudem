@@ -11,5 +11,8 @@ more productive and easy to accomplish.
 This plugin implements TauDEM provider for SEXTANTE and allows to run
 TauDEM algorithms from SEXTANTE.
 
-        NextGIS - Open source geospatial solutions
-                    http://nextgis.org
+                      !!! IMPORTANT !!!
+TauDEM provider now is a part of the SEXTANTE core distribution. This plugin now
+obsolete and exists only for historical reason. Please report any bugs and submit
+feature requests to SEXTANTE bugtracker at:
+http://hub.qgis.org/projects/sextante/issues
