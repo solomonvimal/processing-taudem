@@ -1,18 +1,18 @@
-TauDEM algorithms for SEXTANTE
-------------------------------
-TauDEM (Terrain Analysis Using Digital Elevation Models) is a suite of
-Digital Elevation Model (DEM) tools for the extraction and analysis of
-hydrologic information from topography as represented by a DEM.
+TauDEM algorithms for Processing
+--------------------------------
+TauDEM (Terrain Analysis Using Digital Elevation Models) is a suite of Digital
+Elevation Model (DEM) tools for the extraction and analysis of hydrologic
+information from topography as represented by a DEM.
 
-SEXTANTE is a geoprocessing environment that can be used to call native
-and third party algorithms from QGIS, making your spatial analysis tasks
-more productive and easy to accomplish.
+Processing (former SEXTANTE) is a geoprocessing environment that can be used to
+call native and third party algorithms from QGIS, making your spatial analysis
+tasks more productive and easy to accomplish.
 
-This plugin implements TauDEM provider for SEXTANTE and allows to run
-TauDEM algorithms from SEXTANTE.
+This plugin implements TauDEM provider for QGIS Processing framework and allows
+to run TauDEM algorithms from QGIS.
 
                       !!! IMPORTANT !!!
-TauDEM provider now is a part of the SEXTANTE core distribution. This plugin now
-obsolete and exists only for historical reason. Please report any bugs and submit
-feature requests to SEXTANTE bugtracker at:
-http://hub.qgis.org/projects/processing/issues
+TauDEM provider now is a part of the Processing core distribution. This plugin
+now obsolete and exists only for historical reason. Please report any bugs and
+submit feature requests to SEXTANTE bugtracker at:
+http://hub.qgis.org/projects/sextante/issues
