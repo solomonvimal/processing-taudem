@@ -15,5 +15,5 @@ to run TauDEM algorithms from QGIS.
 TauDEM provider now is a part of the Processing core distribution. This plugin
 now obsolete and exists only for historical reason. Please report any bugs and
 submit feature requests to QGIS bugtracker at
-http://hub.qgis.org/projects/sextante/issues
+https://hub.qgis.org/projects/quantum-gis/issues
 under "Processing (SEXTANTE)/TauDEM" category.
