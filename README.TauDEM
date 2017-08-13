@@ -44,7 +44,9 @@ cd build
 
 Configure your build with command
 
-CXX=mpicxx cmake -DCMAKE_INSTALL_PREFIX=/usr/local ..
+#CXX=mpicxx cmake -DCMAKE_INSTALL_PREFIX=/usr/local ..
+# This change makes it work for me. 
+CXX=mpicxx cmake -DCMAKE_INSTALL_PREFIX=/usr/local -DCMAKE_CXX_COMPILER=/usr/bin/g++ ..
 
 and then compile
 
